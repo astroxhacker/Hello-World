@@ -1,2 +1,2 @@
 # Hello-World
-My First sever repositary
+My First sever repositary print("Hello world")
